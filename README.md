@@ -29,3 +29,5 @@
 
 
 p.s в мене нема перепустки тож назва папки просто Прокопишен Павло
+
+https://github.com/inzkk/github-/blob/main/README.md
